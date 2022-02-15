@@ -4,6 +4,8 @@ This project was created in partnership with fellow MCB grad student Izaiah Orne
 
 Data source: [CalEnviroScreen4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40) from the California Office of Environmental Health Hazard Assessment
 
+Check out some of the code that produced the below figures [here](https://github.com/madelinearnold/EnviroExposures-BayArea/blob/main/20211201BayAreaAnalysis-MLA-submitted-code.ipynb) (Madeline) or [here](https://github.com/madelinearnold/EnviroExposures-BayArea/blob/main/BayAreaAnalysis.ipynb) (Izaiah).
+
 Figures from the project:
 
 ![Lead Exposure and Neighborhood Racial Makeup in the Bay Area](MA_Figure_Lead-Exposure-and-Race.png?raw=TRUE)
